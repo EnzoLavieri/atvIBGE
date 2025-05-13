@@ -7,4 +7,4 @@ Rafael Yuzo Fuzii | 22257557-2
 Essa atividade foi proposta pra ser testados os conceitos conceitos de SOA na prática, promovendo a integração de serviços, separação de responsabilidades e reutilização de componentes.
 
 ## Como usar nosso projeto
-Clone o repositorio e rode "npm i" na raiz do projeto.
+Clone o repositorio, rode "npm i" na raiz do projeto e depois escreva "npm run start".
